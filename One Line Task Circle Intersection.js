@@ -1,0 +1,1 @@
+with(Math)circleIntersection=([z,e],[p,o],u)=>(-sin(y=2*acos(hypot(z-p,e-o)/2/u))+y)*u*u|0
